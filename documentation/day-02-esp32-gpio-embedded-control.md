@@ -45,6 +45,34 @@ The work involved understanding:
 
 The circuit provided a simple physical system for testing the ESP32's digital output.
 
+## Practical Circuit Progression
+
+The practical work progressed through several stages as the LED circuit was developed and connected to the ESP32.
+
+### Start — Initial LED Circuit
+
+Two LEDs were initially set up on the breadboard as part of the circuit-building process.
+
+![Initial LED circuit](../DAY%202%20S.jpg)
+
+*Initial LED circuit setup.*
+
+### Middle — Adding Resistors
+
+Resistors were then incorporated into the LED circuit as part of the circuit implementation.
+
+![LED circuit with resistors](../DAY%202%20M.jpg)
+
+*LED circuit with resistors.*
+
+### End — Connecting the ESP32
+
+The completed circuit was connected to the ESP32, providing the hardware setup for testing GPIO-based control.
+
+![LED circuit connected to ESP32](../DAY%202%20E.jpg)
+
+*LED circuit connected to the ESP32.*
+
 ## From Code to Physical Output
 
 A GPIO pin was configured as an output and used to control the LED.
