@@ -6,6 +6,10 @@ Day 1 of the ATLAS Summer Tech School 2026 introduced the foundations of the Rob
 
 The day focused on understanding the rover's hardware, basic electronics, embedded systems, and the relationship between physical circuits and programming.
 
+![Day 1 — ATLAS Summer Tech School](../DAY%201.jpg)
+
+*Day 1 — Introduction to electronics, Arduino, and the Robotic Rover project.*
+
 ## Rover Hardware Introduction
 
 We were introduced to several components that would be used throughout the rover project, including:
