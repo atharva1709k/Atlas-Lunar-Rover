@@ -79,12 +79,3 @@ Day 1 gave me a foundation in electronics and embedded systems that would be use
 I learned how basic electronic components connect together, how an ESP32 interfaces with a circuit, and how software and hardware work together to produce a physical output.
 
 This was the starting point for progressing from simple electronic circuits toward controlling and eventually developing the rover.
-
----
-
-### Program
-
-**ATLAS Summer Tech School 2026**  
-**Robotic Rover Program**
-
-*This project documentation is being developed progressively as I document the technical stages of the rover project.*
