@@ -75,7 +75,7 @@ The overall learning journey covered:
 9. Future technologies and innovation.
 10. Final showcase and Lunar Rover challenge.
 
-![ATLAS Summer Tech School — Weekly Programme](../DAY%200.1.pnh)
+![ATLAS Summer Tech School — Weekly Programme](../DAY%200.1.png)
 
 *Week overview of the programme's learning themes and activities.*
 
