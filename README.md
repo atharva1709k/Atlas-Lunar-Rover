@@ -58,14 +58,3 @@ The corresponding code is available in:
 ## What I Learned
 
 This project gave me practical experience in connecting software with physical hardware and understanding how motor control, electronics, programming, and mechanical components work together in a robotics system.
-
-## Program
-
-**ATLAS Summer Tech School 2026**  
-Robotic Rover Program
-
-The program covered Physics, Electronics, 3D Printing, Arduino, and other STEM concepts through hands-on activities.
-
----
-
-*This repository is being developed progressively as I document the project and its technical milestones.*
