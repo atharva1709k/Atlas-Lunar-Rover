@@ -6,7 +6,7 @@ Day 3 of the ATLAS Summer Tech School 2026 focused on understanding the differen
 
 The session introduced the relationship between a robot's physical structure, electronic components, and software, while also exploring the mechanical design and sensing concepts relevant to the Lunar Rover project.
 
-![Day 3 — Smart Systems & 3D Printing](../DAY%203.jpg)
+![Day 3 — Smart Systems & 3D Printing](../DAY%203.png)
 
 *Day 3 — Smart Systems & 3D Printing programme overview.*
 ## Robotics System Architecture
