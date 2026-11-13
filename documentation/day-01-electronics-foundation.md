@@ -72,7 +72,7 @@ The practical session included checking:
 
 This showed that building an embedded system involves both programming and physical troubleshooting.
 
-## What I Learned
+## What I Learned 
 
 Day 1 gave me a foundation in electronics and embedded systems that would be used throughout the Lunar Rover project.
 
