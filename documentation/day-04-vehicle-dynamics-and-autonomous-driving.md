@@ -24,6 +24,8 @@ The ESP32 was introduced as the central controller that could support wireless c
 
 The session also explained the difference between human-in-the-loop and fully autonomous robotic systems.
 
+![Day 4 — Vehicle Dynamics & Autonomous Driving](../DAY%204.1.png)
+
 ## Motor Drivers & Electronics
 
 The session introduced the role of motor drivers in controlling the rover's DC motors.
