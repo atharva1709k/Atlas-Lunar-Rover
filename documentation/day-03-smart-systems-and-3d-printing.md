@@ -60,6 +60,10 @@ Examples discussed included:
 
 The basic concept was that sensors collect information from the environment and send it to a processor for interpretation and decision-making.
 
+![Day 3 — Rover Hardware and Electronics](../DAY%203.PNG)
+
+*Rover hardware showing the integration of motors, wheels, and electronic components. Image source: ATLAS.*
+
 ## ESP & Wireless Communication
 
 The session introduced the wireless communication capabilities of the ESP platform.
