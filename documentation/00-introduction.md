@@ -22,7 +22,7 @@ The curriculum introduced participants to different technical disciplines, inclu
 - 3D Printing and Prototyping
 - Emerging Technologies and Innovation
 
-![STEM Integration Map — ATLAS Summer Tech School](../DAY%200.2.jpg)
+![STEM Integration Map — ATLAS Summer Tech School](../DAY%200.2.png)
 
 *Arduino Rover Progression*
 
@@ -48,7 +48,7 @@ The project connected theoretical concepts with practical engineering applicatio
 
 ## Interdisciplinary STEM Integration
 
-![ATLAS Summer Tech School — Programme Overview](../DAY%200.jpg)
+![ATLAS Summer Tech School — Programme Overview](../DAY%200.png)
 
 *Integration of different STEM disciplines across the ten-day programme.*
 
@@ -57,8 +57,6 @@ The Lunar Rover project brought together multiple STEM disciplines.
 Physics helped explain motion, forces, electricity, and mechanical behaviour. Mathematics supported calculations and engineering measurements. Chemistry and material science introduced concepts related to batteries and material properties. Electronics and programming provided the foundation for sensing, processing, and controlling the rover.
 
 This interdisciplinary approach demonstrated how different areas of knowledge contribute to solving a single engineering challenge.
-
-
 
 ## Programme Structure
 
@@ -77,7 +75,7 @@ The overall learning journey covered:
 9. Future technologies and innovation.
 10. Final showcase and Lunar Rover challenge.
 
-![ATLAS Summer Tech School — Weekly Programme](../DAY%200.1.jpg)
+![ATLAS Summer Tech School — Weekly Programme](../DAY%200.1.pnh)
 
 *Week overview of the programme's learning themes and activities.*
 
