@@ -2,9 +2,9 @@
 
 ## Overview
 
-The available 30-minute Day 5 recording captures an instructor-led technical lecture and a handoff toward motor interfacing. It documents the rover's proposed control architecture, hardware choices, sensing constraints, and mechanical concepts. It does **not** show the subsequent motor-interfacing work, student code, wiring, or a rover test.
+Day 5 of the ATLAS Summer Tech School 2026 focused on understanding the control architecture and engineering constraints involved in the Robotic Lunar Rover project.
 
-This page records what the Day 5 recording supports as concepts explained or design details stated during the session. It does not treat the programme roadmap as proof that a planned activity was completed.
+The session explored different rover control modes, motor drivers, locomotion, sensors, and the relationship between electronic control and mechanical movement.
 
 ## Control Architecture
 
